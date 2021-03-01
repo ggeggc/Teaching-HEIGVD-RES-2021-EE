@@ -5,7 +5,12 @@ This is where you will find lecture notes, slides and some of the examples prese
 
 ## Upcoming deadlines
 
+<<<<<<< HEAD
 * Until Friday **March 26, at 1PM** (sharp), you must have submitted the Java IO lab. Procedure to submit your results will follow.
+=======
+* Until Friday **March 5, at 1PM** (sharp), you must have had **2 pull requests accepted and merged** in the Chill repository.
+* Read this carefully: the pull requests must have been merged, which means that **I must have had the time to review them**.
+>>>>>>> d84f157 (Add slides for first course)
 
 ## Tentative schedule
 
@@ -35,7 +40,10 @@ This is where you will find lecture notes, slides and some of the examples prese
 | Title          | Repo (new repos need to be created for 2021)                 | Webcasts                                                     | Graded |
 | -------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------ |
 | Chill Protocol | https://github.com/jehrensb/Teaching-HEIGVD-RES-2021-Chill-EE| https://www.youtube.com/playlist?list=PLfKkysTy70QaN-uez0K4UpSpVUbt8ETpk (12 webcasts, ~2 hours). *We need to update this, in order to use GitHub Actions instead of TravisCI.* Also see [this article](https://medium.com/software-engineering-heig-vd/network-programming-res-prelude-eab67078955a) on Medium. |        |
+<<<<<<< HEAD
 | Labo Java IO   | https://github.com/jehrensb/https-github.com-SoftEng-HEIGVD-Teaching-HEIGVD-RES-2021-Labo-Java-IO | 3 webcasts have been added to the RES 2021 playlist          |        |
+=======
+>>>>>>> d84f157 (Add slides for first course)
 |                |                                                              |                                                              |        |
 |                |                                                              |                                                              |        |
 |                |                                                              |                                                              |        |
@@ -65,10 +73,13 @@ This is where you will find lecture notes, slides and some of the examples prese
 
 ## Week 2
 
+<<<<<<< HEAD
 * Java IO, part 1
 * The Java IO Lab (file operations)
 * * [Slides](./slides/01-JavaIOs-JER.pptx)
 
+=======
+>>>>>>> d84f157 (Add slides for first course)
 ## Week 3
 
 ## Week 4
