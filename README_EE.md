@@ -65,13 +65,10 @@ This is where you will find lecture notes, slides and some of the examples prese
 
 ## Week 2
 
-<<<<<<< HEAD
 * Java IO, part 1
 * The Java IO Lab (file operations)
 * * [Slides](./slides/01-JavaIOs-JER.pptx)
 
-=======
->>>>>>> d84f15706145d94931c6cdf79d33efa6f9d40801
 ## Week 3
 
 ## Week 4
