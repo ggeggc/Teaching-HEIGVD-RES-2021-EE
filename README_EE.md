@@ -46,7 +46,8 @@ This is where you will find lecture notes, slides and some of the examples prese
 
 ## Resources
 
-- YouTube [playlist](https://www.youtube.com/playlist?list=PLfKkysTy70QY_C0t9avTuEsLVVObxOtTM)
+- YouTube [playlist cours](https://www.youtube.com/playlist?list=PLP7INXz-ovzWxIIar7Lmp9tK2mmc7taEJ)
+- YouTube [playlist labos](https://www.youtube.com/playlist?list=PLfKkysTy70QY_C0t9avTuEsLVVObxOtTM)
 
 ## Week 0
 
@@ -67,7 +68,7 @@ This is where you will find lecture notes, slides and some of the examples prese
 
 * Java IO, part 1
 * The Java IO Lab (file operations)
-  * [Slides](./slides/01-JavaIOs-JER.pptx)
+  * [Slides](./slides/01-JavaIOs-p1-JER.pdf)
 
 ## Week 3
 
