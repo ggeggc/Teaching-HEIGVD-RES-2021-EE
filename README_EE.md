@@ -67,7 +67,7 @@ This is where you will find lecture notes, slides and some of the examples prese
 
 * Java IO, part 1
 * The Java IO Lab (file operations)
-* * [Slides](./slides/01-JavaIOs-JER.pptx)
+  * [Slides](./slides/01-JavaIOs-JER.pptx)
 
 ## Week 3
 
@@ -79,7 +79,7 @@ This is where you will find lecture notes, slides and some of the examples prese
 
 
 
-##Easter Break
+## Easter Break
 
 
 
