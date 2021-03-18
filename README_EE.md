@@ -6,11 +6,11 @@ This is where you will find lecture notes, slides and some of the examples prese
 ## Upcoming deadlines
 
 * Until Friday **March 26, at 1PM** (sharp), you must have submitted the Java IO lab. Procedure to submit your results will follow.
-* Before the lecture of **March 23th**, please install and setup
-  * Wireshark
-  * telnet (client)
-  * netcat (nc or ncat)
-
+* Tuesday**April 13**: first written test.
+  * Will take place at school.
+  * Class room: ????.
+  * Bring your laptop, fully equipped with wireshark, netcat, code samples and what you will have done in the next 2 lab sessions.
+* Tuesday March 23 and March 30: you will work on an exercise to design, then to implement a simple application-level protocol. You will not get a grade for this lab. However, you need to do the work and to understand the content in order to have a smooth experience during the first test.
 
 ## Tentative schedule
 
@@ -22,8 +22,8 @@ This is where you will find lecture notes, slides and some of the examples prese
 | 3                 | Java IO - part 2                | **Java IO (grade, weight 1)**               |
 | 4                 | TCP programming                 | Protocol design exercise (no grade)         |
 | 5                 | TCP programming                 | Protocol implementation exercise (no grade) |
-| 6                 | **Test 1**                      | SMTP lab                                    |
 | **Eastern break** |                                 |                                             |
+| 6                 | **Test 1**                      | SMTP lab                                    |
 | 7                 | SMTP                            | **SMTP lab (grade, weight 1)**              |
 | 8                 | HTTP Protocol + intro to Docker | Implement a minimal HTTP client             |
 | 9                 | HTTP Protocol + intro to Docker | implement a minimal HTTP server             |
@@ -41,18 +41,18 @@ This is where you will find lecture notes, slides and some of the examples prese
 | -------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------ |
 | Chill Protocol | https://github.com/jehrensb/Teaching-HEIGVD-RES-2021-Chill-EE| https://www.youtube.com/playlist?list=PLfKkysTy70QaN-uez0K4UpSpVUbt8ETpk (12 webcasts, ~2 hours). *We need to update this, in order to use GitHub Actions instead of TravisCI.* Also see [this article](https://medium.com/software-engineering-heig-vd/network-programming-res-prelude-eab67078955a) on Medium. |        |
 | Labo Java IO   | https://github.com/jehrensb/https-github.com-SoftEng-HEIGVD-Teaching-HEIGVD-RES-2021-Labo-Java-IO | 3 webcasts have been added to the RES 2021 playlist          |        |
+| Protocol design exercise | https://github.com/jehrensb/Teaching-HEIGVD-RES-2021-Exercise-Protocol-Design | 1 webcast has been added to the RES 2021 playlist.           | no     |
+|                          |                                                              |                                                              |        |
+|                          |                                                              |                                                              |        |
+|                          |                                                              |                                                              |        |
+|                          |                                                              |                                                              |        |
+|                          |                                                              |                 
 
-|                |                                                              |                                                              |        |
-|                |                                                              |                                                              |        |
-|                |                                                              |                                                              |        |
-|                |                                                              |                                                              |        |
-|                |                                                              |                                                              |        |
-|                |                                                              |                                                              |        |
-|                |                                                              |                                                              |        |
 
 ## Resources
 
-- YouTube [playlist](https://www.youtube.com/playlist?list=PLfKkysTy70QY_C0t9avTuEsLVVObxOtTM)
+- YouTube [playlist cours](https://www.youtube.com/playlist?list=PLP7INXz-ovzWxIIar7Lmp9tK2mmc7taEJ)
+- YouTube [playlist labos](https://www.youtube.com/playlist?list=PLfKkysTy70QY_C0t9avTuEsLVVObxOtTM)
 
 ## Week 0
 
@@ -72,23 +72,42 @@ This is where you will find lecture notes, slides and some of the examples prese
 ## Week 2
 
 * Java IO, part 1
+* [Slides part 1](./slides/01-JavaIOs-p1-JER.pdf)
 * The Java IO Lab (file operations)
-  * [Slides part 1](./slides/01-JavaIOs-p1-JER.pdf)
-  * [Slides part 2](./slides/01-JavaIOs-p2-JER.pdf)
+
 
 ## Week 3
 
+* Java IO, part 2
+* [Slides part 2](./slides/01-JavaIOs-p2-JER.pdf)
+* The Java IO Lab (file operations)
+
 ## Week 4
+
+* Webcast for the lab: https://www.youtube.com/watch?v=95GwsyiSMXI (added to the RES 2021 playlist)
+* TCP programming, part 1
+* [Slides](./slides/02-TcpProgramming-p1-JER.pdf) and [extra slides](./slides/02-TcpProgramming-example.pdf).
+* Recommended activities for the lab:
+  * Start by reading the guidelines in the lab repo (https://github.com/jehrensb/Teaching-HEIGVD-RES-2021-Exercise-Protocol-Design)
+  * Do the exercise in a pair
+  * Watch my solution (Webcast)
+  * Redo the exercise (make sure that you are able to reapply the process for another protocol)
+  * Read and run the TCP examples
 
 ## Week 5
 
+* TCP programming, part 2
+* [Slides](./slides/02-TcpProgramming-p2-JER.pdf) and [extra slides](./slides/02-TcpProgramming-example.pdf).
+* Recommended activities for the lab:
+  * Work in pairs
+  * One student implements the client
+  * One student implement the server
+  * Try to make the client and the server work together, troubleshoot and review each other code
+
+## Easter Break
+
+
 ## Week 6
-
-
-
-##Easter Break
-
-
 
 ## Week 7
 
