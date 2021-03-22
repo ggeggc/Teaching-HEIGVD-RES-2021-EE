@@ -5,7 +5,7 @@ This is where you will find lecture notes, slides and some of the examples prese
 
 ## Upcoming deadlines
 
-* Until Wednesday, **March 24th at 1PM** (sharp), you must have submitted the Java IO lab. Procedure to submit your results will follow.
+* Until Wednesday, **March 24th at 1PM** (sharp), you must have submitted the Java IO lab. For that, change the name of your PR by replacing `[WIP]` with `[TOREVIEW]`.
 * Thursday **April 1st**: first written test.
   * Will take place at school.
   * RES-A students will be in room C23, RES-B students will be in room B23.
@@ -89,7 +89,7 @@ This is where you will find lecture notes, slides and some of the examples prese
 ## Week 5
 
 * TCP programming, part 2
-* [Slides](./slides/02-TcpProgramming.pdf) and [extra slides](./slides/02-TcpProgramming.pdf).
+* [Slides](./slides/02-TcpProgramming.pdf) and [extra slides](./slides/02-TcpProgramming-example.pdf).
 * Recommended activities for the lab:
   * Work in pairs
   * One student implements the client
