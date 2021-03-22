@@ -39,7 +39,7 @@ This is where you will find lecture notes, slides and some of the examples prese
 
 | Title          | Repo (new repos need to be created for 2021)                 | Webcasts                                                     | Graded |
 | -------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------ |
-| Chill Protocol | https://github.com/jehrensb/Teaching-HEIGVD-RES-2021-Chill-EE| https://www.youtube.com/playlist?list=PLfKkysTy70QaN-uez0K4UpSpVUbt8ETpk (12 webcasts, ~2 hours). *We need to update this, in order to use GitHub Actions instead of TravisCI.* Also see [this article](https://medium.com/software-engineering-heig-vd/network-programming-res-prelude-eab67078955a) on Medium. |        |
+| Chill Protocol | https://github.com/jehrensb/Teaching-HEIGVD-RES-2021-Chill-EE| https://www.youtube.com/playlist?list=PLfKkysTy70QaN-uez0K4UpSpVUbt8ETpk (12 webcasts, ~2 hours). *We need to update this, in order to use GitHub Actions instead of TravisCI.* Also see [this article](https://medium.com/software-engineering-heig-vd/network-programming-res-prelude-eab67078955a) on Medium. | no        |
 | Labo Java IO   | https://github.com/jehrensb/https-github.com-SoftEng-HEIGVD-Teaching-HEIGVD-RES-2021-Labo-Java-IO | 3 webcasts have been added to the RES 2021 playlist          |        |
 | Protocol design exercise | https://github.com/jehrensb/Teaching-HEIGVD-RES-2021-Exercise-Protocol-Design | 1 webcast has been added to the RES 2021 playlist.           | no     |
 |                          |                                                              |                                                              |        |
